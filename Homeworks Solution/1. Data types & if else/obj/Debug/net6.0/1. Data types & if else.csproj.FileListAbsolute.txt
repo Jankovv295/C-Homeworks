@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\bin\Debug\net6.0\1. Data types & if else.exe
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\bin\Debug\net6.0\1. Data types & if else.deps.json
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\bin\Debug\net6.0\1. Data types & if else.runtimeconfig.json
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\bin\Debug\net6.0\1. Data types & if else.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\bin\Debug\net6.0\1. Data types & if else.pdb
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\1. Data types & if else.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\1. Data types & if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\1. Data types & if else.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\1. Data types & if else.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\1. Data types & if else.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\1. Data types & if else.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\refint\1. Data types & if else.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\1. Data types & if else.pdb
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\1. Data types & if else.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\1. Data types & if else\obj\Debug\net6.0\ref\1. Data types & if else.dll
