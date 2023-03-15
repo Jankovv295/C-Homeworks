@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\bin\Debug\net6.0\2. Loops and Arrays.exe
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\bin\Debug\net6.0\2. Loops and Arrays.deps.json
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\bin\Debug\net6.0\2. Loops and Arrays.runtimeconfig.json
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\bin\Debug\net6.0\2. Loops and Arrays.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\bin\Debug\net6.0\2. Loops and Arrays.pdb
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\2. Loops and Arrays.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\2. Loops and Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\2. Loops and Arrays.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\2. Loops and Arrays.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\2. Loops and Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\2. Loops and Arrays.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\refint\2. Loops and Arrays.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\2. Loops and Arrays.pdb
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\2. Loops and Arrays.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\2. Loops and Arrays\obj\Debug\net6.0\ref\2. Loops and Arrays.dll

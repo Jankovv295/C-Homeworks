@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Data types & if else", "1. Data types & if else\1. Data types & if else.csproj", "{681D6E1A-6C71-4B2D-88C6-186A5D3C2A6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Data types & if else", "1. Data types & if else\1. Data types & if else.csproj", "{681D6E1A-6C71-4B2D-88C6-186A5D3C2A6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Loops and Arrays", "2. Loops and Arrays\2. Loops and Arrays.csproj", "{0BC7B8E9-3978-4C64-BBBA-E9C5DAAB13C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Methods", "3. Methods\3. Methods.csproj", "{C7D37F5C-FD9D-4F2C-BB22-6DB060BAF2DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{681D6E1A-6C71-4B2D-88C6-186A5D3C2A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{681D6E1A-6C71-4B2D-88C6-186A5D3C2A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{681D6E1A-6C71-4B2D-88C6-186A5D3C2A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC7B8E9-3978-4C64-BBBA-E9C5DAAB13C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC7B8E9-3978-4C64-BBBA-E9C5DAAB13C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC7B8E9-3978-4C64-BBBA-E9C5DAAB13C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC7B8E9-3978-4C64-BBBA-E9C5DAAB13C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D37F5C-FD9D-4F2C-BB22-6DB060BAF2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D37F5C-FD9D-4F2C-BB22-6DB060BAF2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D37F5C-FD9D-4F2C-BB22-6DB060BAF2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D37F5C-FD9D-4F2C-BB22-6DB060BAF2DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
