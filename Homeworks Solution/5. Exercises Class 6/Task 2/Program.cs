@@ -43,63 +43,6 @@ void LogIn()
 }
 
 
-//void Register()
-//{
-//    Console.WriteLine("Welcome to our Console App. To Register enter the following information:");
-//    Console.WriteLine("Enter Id: ");
-//    int inputRegisterId = Convert.ToInt32(Console.ReadLine());
-//    Console.WriteLine("Enter Username: ");
-//    string inputRegisterUsername = Console.ReadLine();
-//    Console.WriteLine("Enter Password: ");
-//    string inputRegisterPassword = Console.ReadLine();
-
-//    foreach (var item in arrayOfUsers)
-//    {
-//        if (inputRegisterPassword.Length <= 5)
-//        {
-//            Console.WriteLine("The password must contain at least 5 characters");
-//            break;
-//        };
-
-//        if (inputRegisterId == item.Id)
-//        {
-//            Console.WriteLine("There is already a user with the same Id. Try with other Id");
-//            break;
-//        }
-//        else
-//        {
-//            if (inputRegisterUsername == item.Username)
-//            {
-//                Console.WriteLine("There is already a user called like that. Try with other username");
-//                break;
-//            }
-//            else
-//            {
-//                User inputUser = new User(inputRegisterId, inputRegisterUsername, inputRegisterPassword);
-//                Array.Resize(ref arrayOfUsers, arrayOfUsers.Length + 1);
-//                arrayOfUsers[arrayOfUsers.Length - 1] = inputUser;
-//                foreach (var element in arrayOfUsers)
-//                {
-//                    Console.WriteLine(element.UserInfo());
-//                };
-
-//                Console.WriteLine(@"If you want to Log in now press ""Y"", and if you want to exit press ""X"" ");
-//                char inputContinueOrExit = Convert.ToChar(Console.ReadLine());
-
-//                if (inputContinueOrExit == 'Y')
-//                {
-//                    LogIn();
-//                    break;
-//                }
-//                else
-//                {
-//                    break;
-//                }
-//            }
-//        }
-//    }
-//}
-
 void Register()
 {
     Console.WriteLine("Welcome to our Console App. To Register enter the following information:");

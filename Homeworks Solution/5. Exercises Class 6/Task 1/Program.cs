@@ -1,4 +1,4 @@
-﻿////Task 2: Create a method called NumberStats that accepts a number. This method should:
+﻿////Task 1: Create a method called NumberStats that accepts a number. This method should:
 ////Find out if the number is negative or positive, odd or even and decimal or integer
 ////The number should be entered in the console by the user. Bonus: Ask the user to press Y to try again or X to exit
 
