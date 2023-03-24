@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\bin\Debug\net6.0\5. Exercises Class 6.exe
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\bin\Debug\net6.0\5. Exercises Class 6.deps.json
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\bin\Debug\net6.0\5. Exercises Class 6.runtimeconfig.json
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\bin\Debug\net6.0\5. Exercises Class 6.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\bin\Debug\net6.0\5. Exercises Class 6.pdb
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\5. Exercises Class 6.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\5. Exercises Class 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\5. Exercises Class 6.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\5. Exercises Class 6.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\5. Exercises Class 6.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\5. Exercises Class 6.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\refint\5. Exercises Class 6.dll
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\5. Exercises Class 6.pdb
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\5. Exercises Class 6.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\SEAVUS\C#\Csharp-Homeworks\Homeworks Solution\5. Exercises Class 6\5. Exercises Class 6\obj\Debug\net6.0\ref\5. Exercises Class 6.dll
